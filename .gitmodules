@@ -1,0 +1,3 @@
+[submodule "libs/cvec"]
+	path = libs/cvec
+	url = git@github.com:anthonyb8/cvec.git

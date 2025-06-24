@@ -1,5 +1,5 @@
-#ifndef clox_chunk_h
-#define clox_chunk_h
+#ifndef snek_chunk_h
+#define snek_chunk_h
 
 #include <stdint.h>
 

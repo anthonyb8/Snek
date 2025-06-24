@@ -1,5 +1,5 @@
-#ifndef clox_value_h
-#define clox_value_h
+#ifndef snek_value_h
+#define snek_value_h
 
 #include <stdbool.h>
 #include <stdint.h>
@@ -50,4 +50,4 @@ void printValue(Value* value);
 // void writeValueArray(ValueArray* array, Value value);
 // void freeValueArray(ValueArray* array);
 //
-#endif  // !clox_value_h
+#endif  // !snek_value_h

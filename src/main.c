@@ -72,7 +72,7 @@ int main(int argc, const char* argv[]) {
   } else if (argc == 2) {
     runFile(argv[1], &vm);
   } else {
-    fprintf(stderr, "Usage: clox [path]\n");
+    fprintf(stderr, "Usage: snek [path]\n");
     exit(64);
   }
 
@@ -128,7 +128,7 @@ int main(int argc, const char* argv[]) {
 //   } else if (argc == 2) {
 //     runFile(argv[1], &vm);
 //   } else {
-//     fprintf(stderr, "Usage: clox [path]\n");
+//     fprintf(stderr, "Usage: snek [path]\n");
 //     exit(64);
 //   }
 //

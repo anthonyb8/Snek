@@ -1,5 +1,5 @@
-#ifndef clox_compiler_h
-#define clox_compiler_h
+#ifndef snek_compiler_h
+#define snek_compiler_h
 
 #include "bytecode/chunk.h"
 #include "scanner/scanner.h"

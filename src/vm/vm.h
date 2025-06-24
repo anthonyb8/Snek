@@ -1,5 +1,5 @@
-#ifndef clox_vm_h
-#define clox_vm_h
+#ifndef snek_vm_h
+#define snek_vm_h
 
 #include <stdint.h>
 #include <stdio.h>
@@ -32,4 +32,4 @@ InterpretResult interpret(const char* source, VM* vm);
 void push(Value value, VM* vm);
 Value pop(VM* vm);
 
-#endif  // !clox_vm_h
+#endif  // !snek_vm_h
